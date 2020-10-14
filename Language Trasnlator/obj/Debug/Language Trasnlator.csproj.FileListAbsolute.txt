@@ -1,0 +1,18 @@
+C:\Users\Wels Blanchard\source\repos\Language Trasnlator\Language Trasnlator\bin\Debug\Language Trasnlator.exe.config
+C:\Users\Wels Blanchard\source\repos\Language Trasnlator\Language Trasnlator\bin\Debug\Language Trasnlator.exe
+C:\Users\Wels Blanchard\source\repos\Language Trasnlator\Language Trasnlator\bin\Debug\Language Trasnlator.pdb
+C:\Users\Wels Blanchard\source\repos\Language Trasnlator\Language Trasnlator\obj\Debug\Language Trasnlator.csprojAssemblyReference.cache
+C:\Users\Wels Blanchard\source\repos\Language Trasnlator\Language Trasnlator\obj\Debug\Language_Trasnlator.Form1.resources
+C:\Users\Wels Blanchard\source\repos\Language Trasnlator\Language Trasnlator\obj\Debug\Language_Trasnlator.Properties.Resources.resources
+C:\Users\Wels Blanchard\source\repos\Language Trasnlator\Language Trasnlator\obj\Debug\Language Trasnlator.csproj.GenerateResource.cache
+C:\Users\Wels Blanchard\source\repos\Language Trasnlator\Language Trasnlator\obj\Debug\Language Trasnlator.exe
+C:\Users\Wels Blanchard\source\repos\Language Trasnlator\Language Trasnlator\obj\Debug\Language Trasnlator.pdb
+H:\C# programing\Language Trasnlator\Language Trasnlator\bin\Debug\Language Trasnlator.exe.config
+H:\C# programing\Language Trasnlator\Language Trasnlator\bin\Debug\Language Trasnlator.exe
+H:\C# programing\Language Trasnlator\Language Trasnlator\bin\Debug\Language Trasnlator.pdb
+H:\C# programing\Language Trasnlator\Language Trasnlator\obj\Debug\Language Trasnlator.csprojAssemblyReference.cache
+H:\C# programing\Language Trasnlator\Language Trasnlator\obj\Debug\Language_Trasnlator.Form1.resources
+H:\C# programing\Language Trasnlator\Language Trasnlator\obj\Debug\Language_Trasnlator.Properties.Resources.resources
+H:\C# programing\Language Trasnlator\Language Trasnlator\obj\Debug\Language Trasnlator.csproj.GenerateResource.cache
+H:\C# programing\Language Trasnlator\Language Trasnlator\obj\Debug\Language Trasnlator.exe
+H:\C# programing\Language Trasnlator\Language Trasnlator\obj\Debug\Language Trasnlator.pdb
